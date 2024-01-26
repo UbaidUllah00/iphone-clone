@@ -1,0 +1,232 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.container{
+    background-color: #F2F2F2;
+    height: 35px;
+  
+   
+}
+.logo{
+    display: inline-block;
+}
+.logo img{
+    width: 25px;
+    height: 25px;
+    margin-top: 7px;
+    margin-left: 100px;
+}
+.navbar {
+ 
+    display: inline-block;
+    margin-left: 80px;
+ 
+}
+.navbar ul{
+   
+    margin-left: 70px;
+
+  
+}
+a{
+    color: black;
+    text-decoration: none;
+    list-style: none;
+
+}
+.navbar li{
+ display: inline-block;
+    padding-left: 22px ;
+    text-align: center;
+   
+ 
+}
+.navbar li:hover{
+    background-color: #217BD0;
+}
+.back1{
+    color: #fff;
+    position: relative;
+    width: 100%;
+    margin: 0;
+
+}
+.back1 img{
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    
+}
+.back1 h1{
+     position: absolute;
+     top: 100px;
+     left: 500px;
+}
+.back1 h2{
+    position: absolute;
+    top: 150px;
+    left: 560px;
+    
+}
+.back1 button {
+ background-color: #0000ff;
+ color: #000000;
+ position: absolute;
+ top: 200px;
+ left: 580px;
+outline: none;
+ border-radius: 20px;
+ padding: 20px;
+  
+}
+.back1 button:hover{
+  background-color: #008000;
+}
+
+.back1 p{
+    position: absolute;
+    top: 280px;
+    left: 570px;
+ color: #217BD0;
+ font-size: bold;
+}
+
+.back2{
+    display: block;
+
+}
+.back2 img{
+    width: 100%;
+    height: 80vh;
+    background-position: center;
+    background-size: cover;
+}
+.back2{
+    position: relative;
+}
+.back2 p{
+    position: absolute;
+    top: 110px;
+    left: 600px;
+    font-size: 10px;
+    color:#ff0000;
+}
+.back2 h2{
+    position: absolute;
+    left: 530px;
+    top: 125px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+.back2 button{
+    position: absolute;
+    left: 570px;
+    top: 180px;
+    outline: none;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: #0000ff;
+    color: #000000;
+}
+.back2 button:hover{
+    background-color: #008000;
+}
+.back2 h4{
+    position: absolute;
+    left: 560px;
+    top: 250px;
+    color: #217BD0;
+}
+.back3 {
+    position: relative;
+}
+.back3 img{
+    position: absolute;
+    left: 70%;
+    margin-top: 8px;
+   background-size: right;
+   background-position: right;
+    
+}
+.back3 p{
+    position: absolute;
+    left: 300px;
+    top: 180px;
+    font-weight: bold;
+}
+.back3 h2{
+    font-weight: bold;
+    position: absolute;
+    left:240px ;
+    top: 200px;
+    color:#217BD0;
+    font-size: 35px;
+}
+.back3 h4{
+    font-weight: bold;
+    position: absolute;
+    left:250px ;
+    top: 240px;
+    color:#217BD0;
+    font-size: 33px;
+}
+.back3 button{
+    position: absolute;
+    left: 330px;
+    top: 300px;
+    outline: none;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: #0000ff;
+    color: #000000;
+}
+.back3 button:hover{
+    background-color:#008000;
+}
+.featured{
+    margin-top: 40px;
+}
+.featured h1{
+    margin-top: 500px;
+   text-align: center;
+    color: #000000;
+    background-color: #f2f2f2;
+
+}
+.back4{
+    position: relative;   
+    width: 60%;
+    height: 70vh;
+    border: #f2f2f2;
+
+}
+.back4 img{
+    width: 60%;
+    height: 70vh;
+    position: absolute;
+    left:600px;
+    top: 80px;
+    background-position: right;
+    background-size: cover;
+
+}
+.back4 h2{
+    color: #000000;
+    position: absolute;
+    top: 100px;
+    left: 150px;
+}
+.back4 p{
+   display: inline-block;
+    color: #000000;
+    position: absolute;
+    top: 150px;
+    left: 130px;
+}
+.back
+
+
